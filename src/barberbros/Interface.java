@@ -562,7 +562,7 @@ public class Interface extends javax.swing.JFrame {
             bayangan1.setText(String.valueOf(""));
             break;
             case "HairStyle":
-            bayangan1.setText(String.valueOf("55000"));
+            bayangan1.setText(String.valueOf("50000"));
             break;
             case "Coloring":
             bayangan1.setText(String.valueOf("75000"));
